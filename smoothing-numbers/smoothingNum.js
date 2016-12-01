@@ -1,5 +1,5 @@
-const rad = Math.PI / 360;
-const maxAngle = 360;
+const rad = Math.PI / 1440;
+const maxAngle = 720;
 const items = document.querySelectorAll("li");
 const itemWidth = 22;
 

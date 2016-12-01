@@ -34,7 +34,7 @@ li {
 }
 
 li:nth-child(odd) {
-    background: maroon;
+    background: yellowgreen;
     transform: rotateY(30deg);
 }
 
